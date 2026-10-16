@@ -1,5 +1,8 @@
 # Automated Active Directory User Provisioning
 
+## Homelab Network Topology
+![Homelab Master Network Topology](https://raw.githubusercontent.com/BLor-SysAdmin/HTC-Network-Administration-Labs/main/homelab-topology-blueprint.png)
+
 A PowerShell automation solution designed to streamline employee onboarding by parsing user data from a CSV file and dynamically provisioning them into Active Directory (AD).
 
 This script eliminates manual entry errors by automatically building out target Organizational Unit (OU) structures based on departments and generating standardized enterprise accounts.
